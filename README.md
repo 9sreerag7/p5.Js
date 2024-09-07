@@ -5,7 +5,9 @@
 
 
 # Project Name
-Long Description about project. This project do that. This project is awesome...
+Block Buster
+Welcome to Block Buster,where every piece is a puzzle and every move is a game-changer!
+Dive into the world of falling shapes and stack your way to victory.Rotate and allign the blocks to clear lines and rack up points in this twist on the classic Tetris!Can you keep your cool as the blocks come falling down and build a high score worth bragging about? It's time to play smart,stck high,and become the ultimate Block Buster!...
 ## Team members
 1. [Shifa](https://github.com/ShifaShihab)
 2. [Niranjana](https://github.com/Nir-anjanaa)
