@@ -14,7 +14,7 @@ Long Description about project. This project do that. This project is awesome...
 ## Link to product walkthrough
 [link to video](Link Here)
 ## Libraries used
-Nil
+p5.js
 ## How to configure
 1. Just copy the file given above .
 2. And paste it on p5.Js Web editor.
