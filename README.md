@@ -7,16 +7,18 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. [Sreerag](https://github.com/9sreerag7)
-2. [Name 2](https://github.com/TH-Activities/saturday-hack-night-template)
+1. [Shifa](https://github.com/ShifaShihab)
+2. [Niranjana](https://github.com/Nir-anjanaa)
+3. [Nandana](https://github.com/Nandanaaaah)
+4. [Sreerag](https://github.com/9sreerag7)
 ## Link to product walkthrough
 [link to video](Link Here)
-## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
 ## Libraries used
-Library Name - Version
+Nil
 ## How to configure
-Instructions for setting up project
+1. Just copy the file given above .
+2. And paste it on p5.Js Web editor.
+3. Run the code.
+4. Enjoy the play.
 ## How to Run
-Instructions for running
+no specific instructions.
